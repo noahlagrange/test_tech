@@ -1,0 +1,30 @@
+.info {
+    position: relative;
+    top: 200px;
+    left: -450px;
+}
+
+.infoh1 {
+    position: relative;
+    margin: 50px;
+    top: 50px;
+    left: -130px;
+    font-weight: 600;
+    font-size: 35px;
+    color: black;
+}
+
+.Latin {
+    font-size: 20px;
+    position: relative;
+    left: 21px;
+}
+
+.cahier {
+    font-weight: 700;
+    position: relative;
+    color: rgb(74, 74, 245);
+    margin: 50px;
+    top: 50px;
+    left: -241px;
+}

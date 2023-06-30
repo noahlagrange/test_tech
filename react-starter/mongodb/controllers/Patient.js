@@ -18,7 +18,7 @@ exports.getonePatient = (req, res) => {
 }
 
 exports.getallPatient = (req, res) => {
-    Humeur.find()
+    const allpatient =  Humeur.find()
     .then((patient) => {return res.status(200).json({patient})})
     .catch((error) => {return res.status(400).json({error})});
 }
