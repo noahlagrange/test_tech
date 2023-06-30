@@ -14,8 +14,6 @@ Requete possible:
 
                      Recuperer un Patient: http://localhost:5000/api/patient/:id (id du patient)
 
-                     Recuperer un Patient: http://localhost:5000/api/patient/:id (id du patient)
-
                      Recuperer une humeur : http://localhost:5000/api/humeur/:id (id de l'humeur)
 
                      Recuperer toutes les humeurs d'un patient: http://localhost:5000/api/humeur/patient/:id (id du patient)
